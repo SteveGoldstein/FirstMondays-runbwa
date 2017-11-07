@@ -1,0 +1,17 @@
+First Mondays:  November 6, 2017
+
+I may use some of these slick commands or shortcuts without explanation.
+
+
+-- !$ means the last word in command history.
+   google "bash special variables command history"
+   
+--  How do you ssh and scp without passwords?  Aliases for servers?
+
+    Google ssh-keygen or  "rsa keys" or  ".ssh/config" ...
+
+-- Changing directories?
+   	    cd -     ## change to previous dir
+      	    pushd and popd:  creates a "stack" of directories.
+	    google "linux pushd"
+	    
